@@ -1,0 +1,5 @@
+Languages to focus on are:
+1. Python for its use in data science. Web applications can also be made with Django framework.
+2. Javascript for its use in application development. See below:
+React for mobile apps.
+Electron for desktop apps.
